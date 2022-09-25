@@ -35,8 +35,10 @@ being the second.
 
 <h3>Example:</h3>
 
-*Positional:* .\armtd.ps1 test-dev-rg storageAccount.json<br>
-*Specifying Arguments:* .\armtd.ps1 -resourceGroup test-dev-rg -template storageAccount.json
+**Positional:**<br>
+.\armtd.ps1 test-dev-rg storageAccount.json<br>
+**Specifying Arguments:**<br>
+.\armtd.ps1 -resourceGroup test-dev-rg -template storageAccount.json
 
 <h2>Screenshots</h2>
 
