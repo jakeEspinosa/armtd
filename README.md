@@ -34,8 +34,8 @@ being the second.
 
 <h3>Example:</h3>
 
-*Positional:* .\armtd.ps1 test-rg testDeployment.json<br>
-*Specifying Arguments:* .\armtd.ps1 -resourceGroup test-rg -template testDeployment.json
+*Positional:* .\armtd.ps1 test-dev-rg storageAccount.json<br>
+*Specifying Arguments:* .\armtd.ps1 -resourceGroup test-dev-rg -template storageAccount.json
 
 <h2>Screenshots</h2>
 
