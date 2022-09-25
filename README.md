@@ -3,7 +3,8 @@
 <h2>Description</h2>
 
 Deploy ARM templates directly from PowerShell! This simple script takes the Resource Group name and the name of<br>
-the ARM template as arguments and then deploys the resource(s).
+the ARM template as arguments and then deploys the resource(s). It appends the date to the end of the deployment<br>
+name in Azure to promote record keeping.
 
 <h2>Technologies Used</h2>
 
@@ -50,10 +51,3 @@ Running the Script With Positional Arguments
 Deployed Resource in Azure
 
 ![deployedResource](https://user-images.githubusercontent.com/50299748/192168566-adf2d664-7291-4e60-801b-7d9d244dfd98.png)
-<br>
-<br>
-
-<p align="center">
-Source Code
-
-![sourceCode](https://user-images.githubusercontent.com/50299748/192168618-9bfb73e0-5fe9-437f-ac47-eca2fc5f54b4.png)
